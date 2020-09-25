@@ -1,22 +1,11 @@
 {
-  "books": [
-  {
-    "id": 28397290283,
-    "name": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61fdrEuPJwL.jpg",
-    "format": "Digital",
-    "price": 9.99,
-    "shipping": 0
-  },
-  {
-    "id": 38293817381,
-    "name": "Homo Deus: A Brief History of Tomorrow",
-    "author": "Yuval Noah Harari",
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41MJoxwmKfL._SX327_BO1,204,203,200_.jpg",
-    "format": "Paperback",
-    "price": 13.5,
-    "shipping": 2.99
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
 }
