@@ -1,4 +1,5 @@
-[
+{
+"books": [
   {
     "id": 28397290283,
     "name": "Thinking, Fast and Slow",
@@ -18,3 +19,5 @@
     "shipping": 2.99
   }
 ]
+
+}
